@@ -77,12 +77,12 @@ lecnum      : "00"
 
 ---
 
-### Malthus and the Problem of Overpopulation
+### マルサスと人口過剰の問題
  
-- In 1798, Thomas Malthus published his *Essay on the Principle of Population*. His main fear was overpopulation.
-- Population in the French kingdom had increased from 20 million in 1700 to 30 million by 1780. This very rapid population growth contributed to a stagnation of agricultural wages and an increase in land rents in the decades prior to the Revolution of 1789.
-- As the country was getting richer, the poor were getting poorer, because there were more of them and the typical poor family's resources had fallen. This unfortunate paradox worried Malthus.
-- Malthus argued that reproduction by the poor must be reduced to avoid overpopulation, chaos and misery, and that welfare assistance must be cut to achieve that.
+- 1798年、トマス・マルサスが *人口論* を出版した。彼の主な懸念は人口過剰であった。
+- フランス王国の人口は1700年の2000万人から1780年までに3000万人に増加した。この非常に急速な人口増加により、1789年の革命以前の数十年で、農業の賃金上昇が停滞し地代が上昇した。
+- 国家がより豊かになると、人口が増え、典型的な貧しい家庭の資源は減少したので、貧しい者はより貧しくなった。この不幸な逆説がマルサスを悩ませた。
+- 人口過剰、混乱、不幸を防ぐために、貧しい者の出産は減らされなければならず、その実現のために福祉の支援は削減されなければならないとマルサスは主張した。
 
 ---
 
