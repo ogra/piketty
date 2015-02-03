@@ -96,21 +96,21 @@ lecnum      : "00"
 
 ---
 
-### Ricardo and the Principle of Scarcity
+### リカードと希少性の原理
 
-- In 1817, Ricardo published his *Principles of Political Economy and Taxation*. His main concern was the long-term evolution of land prices and land rents. 
-- Ricardo thought capitalism suffered from an internal contradiction. 
-- As both population and output grow steadily, land tends to become increasingly scarce relative to other goods. The law of supply and demand then implies that the price of land will rise continuously, as will the rents paid to landlords. The landlords will therefore claim a growing share of national income, at the expense of the rest of the population.
-- For Ricardo, a politically acceptable solution was to impose a steadily increasing tax on land rents.
+- 1817年、リカードは *『経済学および課税の原理』* を出版した。彼の主な研究対象は、土地の価格と地代の長期的な進化であった。
+- リカードは資本主義が内部に矛盾を持つと考えた。
+- 人口と生産が継続的に増加するとき、土地は他の財に比べてますます希少になる傾向がある。すると需要と供給の法則が意味するのは、地主に支払われる地代と同様に、土地の価格が継続的に上昇するということである。従って国民所得に占める地主の取り分が増加し、その分人口の残りの取り分が減る。
+- リカードにとって、政治的に受容できる解決策は地代に対する課税を継続的に増加させることであった。
 
 ---
 
-### Ricardo and the Principle of Scarcity
+### リカードと希少性の原理
 
-- Ricardo's prediction proved wrong: the share of agriculture in national income decreased and the relative value of farm land declined.
-- Ricardo had not anticipated the importance of technological progress and its role in offsetting the principle of scarcity.
-- The principle of scarcity remains important: replace the price of farmland with the price of urban real estate and consider what would happen to wealth inequality if the price trend of 1970–2010 were extrapolated to 2010–2050!
-- The mechanism of supply and demand eventually counterbalances extreme trends: If the supply of some good is short and its price too high, then demand for that good would decrease and eventually its price would decrease.
+- リカードの予測は間違いであると証明された。国民所得に占める農業の割合が減少し、農地の相対的な価値が低下したのである。
+- リカードは技術革新とそれが希少性の原理を相殺する役割を持つことの重要性を予測していなかった。
+- 希少性の原理は今も重要である。農地の価格を都市部の不動産に置き換え、1970年から2010年の価格の趨勢に基づいて2010年から2050年について推測すると富の格差がどうなるかを考察せよ。
+- 需要と供給の仕組みは結局のところ極端な趨勢に対して反対の効果を持つ。ある財の供給が減り価格が高すぎる場合、その財に対する需要は減少し、結果として価格は下がる。
 
 ---
 
