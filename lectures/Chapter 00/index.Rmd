@@ -130,23 +130,23 @@ source('../../shared/shared.R')
 
 ---
 
-### Marx and the Kapital
+### マルクスと資本論
 
-- In 1867, Marx published the first volume of *Capital*. The other two volumes would be published posthumously by Friedrich Engels, the co-author of the *Communist Manifesto* (1848).
-- The question was no longer whether farmers could feed a growing population or whether land prices would go on rising.
-- During the first half of the 19th century wages stagnated at very low levels, in some cases even lower than previous centuries. 
-- The capital income share increased considerably in Britain and France in the first half of the 19th century.
-- With the industrial revolution and the vast rural exodus workers crowded into urban slums. Poverty was now visible in urban areas side by side with extreme opulence. 
+- 1867年、マルクスが *『資本論』* の第1部を出版した。他の2部は彼の死後 *『共産党宣言』* (1848年)の共著者フリードリヒ・エンゲルスによって出版された。
+- 問題は、農業従事者が増加する人口を養うことができるかどうかとか、土地の価格が上昇するかどうかではなかった。
+- 19世紀の前半には、賃金が非常に低い水準で停滞し、前の世紀より低いことさえあった。
+- 19世紀前半のイギリスとフランスでは、資本所得の割合がかなり増加した。
+- 産業革命と農村地帯からの大規模な人口の移動に伴い、労働者が都市部のスラムにごった返した。その時貧困は都市部で極端な豊かさと並んで見られるようになった。
 
 ---
 
-### Marx and the Falling Rate of Profit
+### マルクスと利益率の低下
 
-- Marx predicted a tendency for capitalists to accumulate wealth without limit and for wealth to become concentrated into ever fewer hands. 
-- Marx predicted the excessive accumulation of capital would lead to a falling rate of profit and the collapse of industrial capitalism. 
-- Marx saw the tendency of the profit rate to fall as 'the most important law of political economy.' As the rate of profit fell, capitalists would seek to extract more surplus and workers' wages would stagnate or fall.
-- Marx's prediction proved wrong. In the last third of the nineteenth century, wages finally began to increase.
-- The communist revolution took place in the most backward country in Europe, Russia, and not in the advanced industrial countries.
+- マルクスは、資本主義者が際限なく富を蓄積する傾向があることと、富がより一層少ない人々に集中する傾向があることを予言した。
+- マルクスは過度な資本の蓄積が利益率を低下させ産業資本主義を崩壊させると予言した。
+- マルクスは利益率が低下する傾向を「政治経済の最も重要な法則」であると考えた。利益率が低下するにつれて、資本主義者はより多くの剰余を搾取しようとし、労働者の賃金は停滞するか減少する。
+- マルクスの予言は間違いであると証明された。19世紀の最後の3分の1で、賃金はついに上昇し始めた。
+- ヨーロッパの最も遅れた国、ロシアで共産主義革命が起こったが、先進国では起こらなかった。
 
 ---
 
