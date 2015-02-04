@@ -6,7 +6,6 @@ framework   : io2012  # {minimal, io2012, html5slides, shower, dzslides, ...}
 mode        : selfcontained  # {selfcontained, standalone, draft}
 widgets     : mathjax   # {mathjax, quiz, bootstrap}
 ext_widgets : {rCharts: [libraries/nvd3]}  # libraries/morris, libraries/highcharts, libraries/rickshaw, libraries/dimple
-github      : {user: patricktoche, repo: piketty}
 url         : {lib: "../../libraries", assets: "../../assets"}
 lecnum      : "04"
 --- {class: cover-slide}
@@ -344,7 +343,7 @@ Concept and data: Thomas Piketty. Chart created with ``ggplot2`` (author: Hadley
 <footer class = 'footnote'>Concept and data: Thomas Piketty. Chart created with ``rCharts`` (author: Ramnath Vaidyanathan)  
 </footer>  
 
----
+<!---
 
 ### Private and public capital in Europe
 
@@ -355,16 +354,17 @@ Concept and data: Thomas Piketty. Chart created with ``ggplot2`` (author: Hadley
 <footer class = 'footnote'>Concept and data: Thomas Piketty. Chart created with ``ggplot2`` (author: Hadley Wickham)
 </footer>  
 
-<!---
+-->
+
+---
 
 ### Private and public capital in Europe
+
 
 <iframe src = 'figures/Figure_4_4.html' alt = "Figure 4.4. Private and public capital in Europe, 1870-2010.">
 </iframe><icaption class = 'icaption'>Figure 4.4. The fluctuations of national capital in Europe in the long run are mostly due to the fluctuations of private capital.</icaption>
 <footer class = 'footnote'>Concept and data: Thomas Piketty. Chart created with ``rCharts`` (author: Ramnath Vaidyanathan)  
 </footer>  
-
--->
 
 <!---
 
