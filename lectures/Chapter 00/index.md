@@ -142,23 +142,23 @@ lecnum      : "00"
 
 ---
 
-### Simon Kuznets and the Kuznets Curve
+### サイモン・クズネッツとクズネッツ曲線
 
-- In 1953, Kuznets published *Shares of Upper Income Groups in Income and Savings*, a study of the United States over 1913–1948. 
-- Kuznets noted a sharp reduction in the upper deciles of income between 1913 and 1948. In 1913, the top 10% of US earners received 45–50% of annual national income. In 1948, they earned 30–35%.
-- The 'Kuznets curve' interpretation is that inequality rises in the early stages of industrialization &mdash; falls later. An explanation is due to W. Arthur Lewis (1915-1991). In early stages, 'unlimited' supply of labour from rural areas allows urban areas to expand without upward pressure on wages. Wages rise once rural-urban migration stops.
-- In truth, however, the compression of high incomes was largely accidental, caused by the Great Depression and World War II.
+- 1953年、クズネッツは1913年から1948年までの合衆国の研究、 *『所得と貯蓄における上位所得者の集団の割合』* を出版した。
+- クズネッツは1913年から1948年までの間に、所得の上位の十位分数が急激に減少していることに気づいた。1913年に合衆国の上位10%の所得者が年間の国民所得の45から50%を得ていた。それが1948年には30から35%に落ち込んだ。
+- 「クズネッツ曲線」の解釈は、産業化の初期の段階で格差が拡大し、後に縮小するということである。一つの説明がW. アーサー・ルイス（1915年-1991年）によってなされている。初期の段階では、農村部からの「無制限の」労働力の供給により、賃金の上昇圧力なしに都市部が拡大することが可能になる。農村部から都市部への移住が止まると、賃金が上昇する。
+- しかし実際は、高所得の圧縮は主として大恐慌と第二次世界大戦によって引き起こされた偶発的なものであった。
 
 ---
 
-### Piketty's Capital
+### ピケティの資本
 
-- While Marx's vision was a nightmare, the Kuznets curve is a fairy tale.
-- Piketty seeks to ground his theories on facts. He surveys economic data spanning several centuries and continents.
-- Piketty's theory places the data within a simple, universal accounting framework and focuses on the very long run.
-- Piketty's vision of the future draws from history and does not speculate about future technologies or future societies.
-- This 'lack of imagination' leads Piketty to search for fiscal solutions to the economic and political problem of inequality.
-- Piketty advocates high taxes on high incomes and wealth transmission.
+- マルクスのビジョンは悪夢であった一方、クズネッツ曲線はお伽話である。
+- ピケティは彼の理論を事実に基づいたものにしようとする。彼は数世紀にわたりいくつもの大陸にわたって経済データを調査する。
+- ピケティの理論はデータを簡単な普遍的な会計の枠組みの中に置き、非常に長い期間に焦点を当てる。
+- ピケティの将来のビジョンは歴史から導き出されたものであり、将来の技術や将来の社会についての憶測はしない。
+- この「想像の欠如」によってピケティは格差の政治経済的な問題に対する財政的な解決策を探す。
+- ピケティは高い所得と富の移転に高い税を課すことを提唱する。
 
 ---
 
