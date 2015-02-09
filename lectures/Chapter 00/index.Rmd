@@ -168,35 +168,35 @@ source('../../shared/shared.R')
 
 ---
 
-### Forces of Convergence & Divergence
+### 集中と発散の力
 
-- **Convergence**
-    - The main force is the diffusion of knowledge.
-    - depends on education policies, access to skills, institutions.
-- **Divergence**
-    - `1.` Top earners earn hundreds of times average earnings. 
-    - `2.` Wealth concentration tends to occur when economic growth is smaller than the rate of return on wealth.
-    - We have become accustomed to 1, thanks to the work of Thomas Piketty and Emmanuel Saez, and many others.
-    - We are now discovering 2 thanks to Piketty's book and the dire warnings of Larry Summers, Paul Krugman, and others.
-
----
-
-### Forces of Convergence & Divergence
-
-- Figures I.1 and I.2 show two basic patterns of divergence. 
-    - Figure I.1 depicts income inequality in the United States.
-    - Figure I.2 depict the capital/income ratio in 3 European countries. 
-- Both graphs depict "U-shaped curves": A period of decreasing inequality followed by one of increasing inequality. 
-- But the phenomena depicted in the figures involve distinct economic, social, and political processes. 
+- **集中**
+    - 主な力は知識の普及
+    - 教育政策、技能へのアクセス、制度に依存する。
+- **発散**
+    - `1.` 上位所得者は平均的な収入の数百倍を稼ぐ。
+    - `2.` 富の集中は経済成長が富の収益率より小さいときに起こる傾向がある。
+    - トマ・ピケティ、エマニュエル・セイズ、ほか多くの人々の仕事のおかげで私達は1について慣れ親しんでいる。
+    - ピケティの本とラリー・サマーズ、ポール・クルグマンらの不吉な警告のおかげで、私達はこれから2を発見していく。
 
 ---
 
-### Forces of Convergence & Divergence
+### 集中と発散の力
 
-- Figure I.1 shows the share of the upper decile of the income hierarchy in US national income from 1910 to 2010. 
-- The top decile claimed as much as 45–50% of national income in the 1910s–1920s, fell to 30–35% by the end of the 1940s, rose again in the 1980s, and by 2000 reached about 45–50%.
-- Figure I.2 shows the total value of private wealth (in real estate, financial assets, and professional capital, net of debt) in Britain, France and Germany, expressed in years of national income, for 1870–2010. 
-- The total amount of private wealth was about 6 or 7 years of national income in the 19th c., fell sharply to 2 or 3 years, in response to the shocks of the period 1914–1945, started to rise steadily after 1950, and is up to about 5 years in 2010.
+- 図I.1とI.2は発散の2つの基本的なパターンを表している。
+    - 図I.1は合衆国における所得の不平等を示している。
+    - 図I.2はヨーロッパの3つの国における資本と所得の比率を示している。
+- いずれのグラフも「U字型カーブ」を描いている。不平等が減少する時期の後に、不平等が拡大する時期が続いている。
+- しかし図に描かれた現象は経済的、社会的、政治的にはっきりした過程を伴っている。
+
+---
+
+### 集中と発散の力
+
+- 図I.1は1910年から2010年までの合衆国の国民所得のうち所得のヒエラルキーの上位十分位が占める割合を示している。
+- 最上位の十分位は1910年代から1920年代にかけては国民所得の45〜50%をも多くの割合を占めていた。それが1940年代の終わりまでに30〜35%に下がり、1980年代に再び上昇し、2000年までには45〜50%に達した。
+- 図I.2は1870年から2010年までの、国民所得の何年分かで表された、イギリス、フランス、ドイツの民間の富（不動産、金融資産、専門職の資本、正味の負債）の総価値を示している。
+- 民間の富の総額は19世紀には国民所得の6〜7年分あったのが、1914年から1945年までの時期の衝撃に対して2〜3年分に急激に減少し、1950年より後には着実に増加し始め、2010年にはおよそ5年分になっている。
 
 ---
 
