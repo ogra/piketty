@@ -194,26 +194,26 @@ lecnum      : "00"
 
 ---
 
-### Income Inequality in the United States
+### 合衆国における所得の不平等
 
-- The spectacular increase in inequality largely reflects an unprecedented explosion of very elevated incomes from labor, caused by a separation of the top managers of large firms from the rest of the population.
-- Did the skills and productivity of these top managers rise suddenly in relation to those of other workers? 
-- Do we live in a 'winner takes all' society?
-- Top managers suddenly acquired the power to set their own remuneration. The 'winner grabs all' society!
-- The tendency is less marked in other wealthy countries, but the trend is in the same direction.
+- 目を見張るような不平等の増加は、大企業の経営者たちが人口のほかの人々から分離されたことによって引き起こされた、非常に上昇した労働による所得が過去に例のないほど爆発したことを反映している。
+- これら経営者のスキルと生産性はほかの労働者との関連で急激に上昇したのか。
+- 私達は「勝者がすべてを取る」社会に生きているのか。
+- 上位の経営者たちは自分たちの報酬を設定する力を突然手に入れた。「商社がすべてをつかむ」社会である。
+- この傾向はほかの裕福な国々ではそれほど強くないが、趨勢は同じ方向である。
 
 ---
 
-### The capital-income ratio
+### 資本所得比率
 
-- The rise of capital/income ratios over the past few decades is in large part a return to a regime of slow growth. 
-- If the rate of return on capital remains above the growth rate for an extended period of time, then wealth becomes more concentrated.
-- In slowly growing economies, past wealth matters more.
-- The logic is captured by an inequality:
+- 過去数十年にわたる資本所得比率の上昇は、主として低成長の体制への戻りである。
+- 拡張された期間、資本収益率が成長率を上回っているならば、富はより集中する。
+- ゆっくり成長する経済では、過去の富がより重要になる。
+- 論理は不平等によって捉えられる。
 $$ 
 r > g
 $$
-where r stands for the average annual rate of return on capital, including profits, dividends, interest, rents, and other income from capital, and g stands for the rate of growth of the economy, that is, the annual proportional change in total income.
+ここでrは利潤、配当、利子、地代その他資本から得られる所得を含む年平均の資本収益率を示し、gはその経済の成長率、つまり、総所得の変化率を示す。
 
 <!---
 
@@ -231,11 +231,11 @@ where r stands for the average annual rate of return on capital, including profi
 
 ---
 
-### Income inequality in the United States
+### 合衆国における所得の不平等
 
 
 <iframe src = 'figures/Figure_0_1.html' alt = "Figure I.1. Income inequality in the United States, 1910-2012.">
-</iframe><icaption class = 'icaption'>Figure I.1. The top decile share in U.S. national income dropped from 45-50% in the 1910s-1920s to less than 35% in the 1950s (this is the 1950-1960 fall documented by Kuznets); it then rose from less than 35% in the 1970s to 45-50% in the 2000s-2010s.</icaption> 
+</iframe><icaption class = 'icaption'>図I.1. 合衆国の国民所得における上位十分位の占める割合は1910年代〜1920年代の45〜50%から、1950年代の35%未満へ低下した。（これがクズネッツによって述べられた1950年から1960年の低下である。）それは1970年代の35%未満から2000年代〜2010年代の45〜50%に上昇した。</icaption> 
 <footer class = 'footnote'>Concept and data: Thomas Piketty. Chart created with ``rCharts`` (author: Ramnath Vaidyanathan)  
 </footer>  
 
@@ -254,11 +254,11 @@ where r stands for the average annual rate of return on capital, including profi
 
 ---
 
-### The capital-income ratio in Europe
+### ヨーロッパにおける資本所得比率
 
 
 <iframe src = 'figures/Figure_0_2.html' alt = "Figure I.2. The capital-income ratio in Europe, 1870-2012.">
-</iframe><icaption class = 'icaption'>Figure I.2. Aggregate private wealth was worth about 6-7 years of national income in Europe in 1910, between 2 and 3 years in 1950, and between 4 and 6 years in 2010.</icaption> 
+</iframe><icaption class = 'icaption'>図I.2. 民間の富の総額は1910年のヨーロッパで国民所得のおよそ6〜7年分あった。1950年には2〜3年分の間になり、2010年には4〜6年分の間になった。</icaption> 
 <footer class = 'footnote'>Concept and data: Thomas Piketty. Chart created with ``rCharts`` (author: Ramnath Vaidyanathan)  
 </footer>  
 
