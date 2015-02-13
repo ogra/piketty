@@ -29,13 +29,13 @@ source('../../shared/shared.R')
 
 ---
 
-### Capital and Labor in the Long Run
+### 長期での資本と労働
 
-- The nature of capital has changed over time, from land and real estate in the 18th century to industrial and financial capital in the 21st.
-- The rise of 'human capital' suggests that labor should claim a growing share of national income. But the data does not bear this out.
-- The rise of private capital in recent years is primarily due to a slowdown of population growth and productivity growth, together with political stability, property rights and tax policies that favor private capital.
-- One measure of the evolution of the capital-labor split (the relative income shares) is the capital/income ratio (the ratio of the total stock of capital to the annual flow of income).
-- Let's clarify the meaning of income, capital, and wealth.
+- 資本の性質は18世紀の土地と不動産から21世紀の産業および金融資本へと、時と共に変化してきた。
+- 「人的資本」の増大は労働が国民所得に占める割合が高まることを示唆する。しかしデータはこのことを支持しない。
+- 近年における民間資本の増大は、政治的な安定、資産の権利、民間資本に有利な税制に加えて、第一に、人口の増加と生産性の上昇が緩やかになってきたことによる。
+- 資本と労働の分離（相対的な所得の割合）の進化を測る一つの尺度は、資本/所得比率（資本の総ストックの、年間の所得のフローに対する比率）である。
+- 所得、資本、富の意味を明確にしていこう。
 
 ---
 
