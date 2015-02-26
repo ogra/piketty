@@ -23,60 +23,60 @@ lecnum      : "01"
 
 ---
 
-### 長期での資本と労働
+### Capital and Labor in the Long Run
 
-- 資本の性質は18世紀の土地と不動産から21世紀の産業および金融資本へと、時と共に変化してきた。
-- 「人的資本」の増大は労働が国民所得に占める割合が高まることを示唆する。しかしデータはこのことを支持しない。
-- 近年における民間資本の増大は、政治的な安定、資産の権利、民間資本に有利な税制に加えて、第一に、人口の増加と生産性の上昇が緩やかになってきたことによる。
-- 資本と労働の分離（相対的な所得の割合）の進化を測る一つの尺度は、資本/所得比率（資本の総ストックの、年間の所得のフローに対する比率）である。
-- 所得、資本、富の意味を明確にしていこう。
+- The nature of capital has changed over time, from land and real estate in the 18th century to industrial and financial capital in the 21st.
+- The rise of 'human capital' suggests that labor should claim a growing share of national income. But the data does not bear this out.
+- The rise of private capital in recent years is primarily due to a slowdown of population growth and productivity growth, together with political stability, property rights and tax policies that favor private capital.
+- One measure of the evolution of the capital-labor split (the relative income shares) is the capital/income ratio (the ratio of the total stock of capital to the annual flow of income).
+- Let's clarify the meaning of income, capital, and wealth.
 
 ---
 
-### 国民所得の概念
+### The Concept of National Income
 
-- *国民所得* は *国内総生産* (GDP)と密接に関わりがある。
-- GDPは一国の領内で一年に生産されたすべての財とサービスの市場価値を測るものである。
-- これには昨年の財、市場に出まわらない財、富、天然資源、真実や美は含まれない。住宅のサービスの扱いは特別である。
-- GDPと国民所得の2つの違いは、次の通り。
+- *National income* is closely related to *Gross Domestic Product* (GDP).
+- GDP measures the market value of all goods and services produced in a given year within the borders of a given country. 
+- This excludes last year's goods, non-market goods, wealth, natural resources, truth and beauty. The treatment of housing services is special.
+- Two differences between GDP and national income:
 
-    `1`. 資本ストックの価値の下落分を差し引く。
+    `1`. Deduct the depreciation of the capital stock. 
     
-    `2`. 外国で稼がれた所得を加え、非居住者に支払われた所得を差し引く。 
+    `2`. Add income earned abroad, subtract income paid to non-residents. 
 
 ---
 
-### 国民所得の概念
+### The Concept of National Income
 
-`1`. 資本ストックの価値の下落分を差し引く。
+`1`. Deduct the depreciation of the capital stock
 
-- 国民所得を計算するには、建物、インフラ、機械、乗り物、コンピューター、その他の項目の減耗分を差し引く。
-- 異なる資本財は異なる率で価値が減少する。価値の減少の平均は多くの国々でGDPのおよそ10パーセントである。
-- 投資が資本ストックに加算されるのと同じように、価値の減少分は差し引かれる。 &mdash; 投資は市場によって価格が付けられ、価値の減少分は会計士によって評価される。
-- 価値の減少分を差し引くことがなぜ妥当なのかは、それを生産活動によってなされる「負の投資」だと考えれば分かる。
+- To compute national income we deduct wear and tear on buildings, infrastructure, machinery, vehicles, computers, and other items.
+- Different capital goods depreciate at different rates. The average depreciation is about 10 percent of GDP in most countries. 
+- Just as investment adds to the capital stock, depreciation subtracts &mdash; investment is priced by the market, depreciation by accountants. 
+- To see why deducting depreciation makes sense, think of it as a 'disinvestment' caused by the act of production. 
 
-- 投資は「固定資本形成」、住宅の建設、在庫を含む。価値の減少分は「固定資本消費」として知られる。
-
----
-
-### 国民所得の概念
-
-`2`. 外国から得た所得を加え、外国人に対して支払われた所得を差し引く。
-
-- アメリカ、イギリス、フランス、ドイツ、イタリア、中国、ブラジル、日本では、国民所得は国内生産の1または2パーセント以内である。
-- これらすべての国々では、収益、利子、配当、地代などの流入がそれに匹敵する流出によっておおよそ相殺されている。
-- 富裕国では、外国からの純所得はふつうわずかにプラスになっている。
-- 一般の認識は非常に異なる。 &mdash; ヨーロッパの人々は彼らの資本が主に日本、中国、サウジなどによって「所有」されているのだと誤って信じている。
+- Investment includes 'fixed capital formation', residential construction and inventories. Depreciation is known as 'fixed capital consumption.'
 
 ---
 
-### 関連する所得の概念
+### The Concept of National Income
 
-- 関連する概念は *国民総生産* (GNP)、 *国民総所得* (GNI)、 *国内純生産* (NDP)、 *国民純生産* (NNP)、 *国民純所得* (NNI)である。これらがどのように関連しているのかは、「国民」と「国内」、「生産」と「所得」、「総」と「純」を対比させれば分かる。
-- **GDPからGNPへの変換**
-- GDPが一国の国境線の内側での生産を測るのに対し、GNPはその国の市民によって生産されたものを測る。
-GDPからGNPを得るには、居住者によって外国で稼がれた所得を加え、国内の非居住者によって稼がれた所得を差し引く。
-- 企業が外国人によって所有されている国では、GDPはGNPより大きくなることがある。多くの市民が外国で働く国では、反対だ。
+`2`. Add income received from abroad and subtract income paid to foreigners. 
+
+- In the US, UK, France, Germany, Italy, China, Brazil, Japan, national income is within 1 or 2 percent of domestic product. 
+- In all these countries, the inflow of profits, interest, dividends, rent, and so on is approximately balanced by a comparable outflow. 
+- In wealthy countries, net income from abroad is generally slightly positive.
+- Popular perception is very different &mdash; Europeans often incorrectly believe their capital is largely 'owned' by the Japanese, Chinese, Saudis...
+
+---
+
+### Related Income Concepts
+
+- Related concepts are *Gross National Product* (GNP), *Gross National Income* (GNI), *Net Domestic Product* (NDP), *Net National Product* (NNP), and *Net National Income* (NNI). To see how they are related, contrast 'national' with 'domestic'; 'product' with 'income'; and 'gross' with 'net'.
+- **From GDP to GNP:**
+- While GDP measures output within the borders of a country, GNP measures output produced by citizens of the country, whether it is produced within or outside of the country. 
+- To obtain GNP from GDP, add income earned abroad by residents and subtract income earned at home by non-residents. 
+- In a country where firms are owned by foreigners, GDP may be greater than GNP. In a country where many citizens work abroad, the opposite.
 
 ---
 
@@ -561,6 +561,121 @@ where $\alpha$ is the share of income from capital in national income and $r$ th
 
 <iframe src = 'figures/Figure_1_5.html' alt = "Figure 1.5. Exchange rate and purchasing power parity: euro v. yuan.">
 </iframe><icaption class = 'icaption'>Figure 1.5. In 2012, 1 euro was worth 8 yuan according to current exchange rate, but 5 yuan in purchasing power parity.</icaption>
+<footer class = 'footnote'>Concept and data: Thomas Piketty. Chart created with ``rCharts`` (author: Ramnath Vaidyanathan)  
+</footer>  
+
+<!--- 
+
+### Exchange rate and purchasing power parity: euro/rupee.
+
+<figure class = "captioned">  
+<img src = "../../figures/Figure_S1_4a.png" alt = "Figure S1.4a. Exchange rate and purchasing power parity : euro/rupee">  
+<figcaption class = 'figcaption'>Figure S1.4a. In 2012, 1 euro was worth around 70 rupees according to current exchange rate, but 25 rupees in purchasing power parity.</figcaption>  
+</figure> 
+<footer class = 'footnote'>Concept and data: Thomas Piketty. Chart created with ``ggplot2`` (author: Hadley Wickham)
+</footer>  
+
+-->
+
+---
+
+### Exchange rate and purchasing power parity: euro/rupee.
+
+
+<iframe src = 'figures/Figure_S1_4a.html' alt = "Figure S1.4a. Exchange rate and purchasing power parity : euro/rupee">
+</iframe><icaption class = 'icaption'>Figure S1.4a. In 2012, 1 euro was worth around 70 rupees according to current exchange rate, but 25 rupees in purchasing power parity.</icaption>
+<footer class = 'footnote'>Concept and data: Thomas Piketty. Chart created with ``rCharts`` (author: Ramnath Vaidyanathan)  
+</footer>  
+
+<!--- 
+
+### Exchange rate and purchasing power parity: euro/yen.
+
+<figure class = "captioned">  
+<img src = "../../figures/Figure_S1_4b.png" alt = "Figure S1.4b. Exchange rate and purchasing power parity : euro/yen">  
+<figcaption class = 'figcaption'>Figure S1.4b. In 2012, 1 euro was worth around 100 yens according to current exchange rate, but 125 yens in purchasing power parity.</figcaption>  
+</figure> 
+<footer class = 'footnote'>Concept and data: Thomas Piketty. Chart created with ``ggplot2`` (author: Hadley Wickham)
+</footer>  
+
+-->
+
+---
+
+### Exchange rate and purchasing power parity: euro/yen.
+
+
+<iframe src = 'figures/Figure_S1_4b.html' alt = "Figure S1.4b. Exchange rate and purchasing power parity : euro/yen">
+</iframe><icaption class = 'icaption'>Figure S1.4b. In 2012, 1 euro was worth around 100 yens according to current exchange rate, but 125 yens in purchasing power parity.</icaption>
+<footer class = 'footnote'>Concept and data: Thomas Piketty. Chart created with ``rCharts`` (author: Ramnath Vaidyanathan)  
+</footer>  
+
+<!--- 
+
+### Exchange rate and purchasing power parity: dollar/yuan.
+
+<figure class = "captioned">  
+<img src = "../../figures/Figure_S1_5a.png" alt = "Figure S1.5a. Exchange rate and purchasing power parity : dollar/yuan">  
+<figcaption class = 'figcaption'>Figure S1.5a. In 2012, 1 dollar was worth around 6 yuans according to current exchange rate, but 4 yuans in purchasing power parity.</figcaption>  
+</figure> 
+<footer class = 'footnote'>Concept and data: Thomas Piketty. Chart created with ``ggplot2`` (author: Hadley Wickham)
+</footer>  
+
+-->
+
+---
+
+### Exchange rate and purchasing power parity: dollar/yuan.
+
+
+<iframe src = 'figures/Figure_S1_5a.html' alt = "Figure S1.5a. Exchange rate and purchasing power parity : dollar/yuan">
+</iframe><icaption class = 'icaption'>Figure S1.5a. In 2012, 1 dollar was worth around 6 yuans according to current exchange rate, but 4 yuans in purchasing power parity.</icaption>
+<footer class = 'footnote'>Concept and data: Thomas Piketty. Chart created with ``rCharts`` (author: Ramnath Vaidyanathan)  
+</footer>  
+
+<!--- 
+
+### Exchange rate and purchasing power parity: dollar/rupee.
+
+<figure class = "captioned">  
+<img src = "../../figures/Figure_S1_5b.png" alt = "Figure S1.5b. Exchange rate and purchasing power parity : dollar/rupee">  
+<figcaption class = 'figcaption'>Figure S1.5b. In 2012, 1 dollar was worth around 50 rupees according to current exchange rate, but 20 rupees in purchasing power parity.</figcaption>  
+</figure> 
+<footer class = 'footnote'>Concept and data: Thomas Piketty. Chart created with ``ggplot2`` (author: Hadley Wickham)
+</footer>  
+
+-->
+
+---
+
+### Exchange rate and purchasing power parity: dollar/rupee.
+
+
+<iframe src = 'figures/Figure_S1_5b.html' alt = "Figure S1.5b. Exchange rate and purchasing power parity : dollar/rupee">
+</iframe><icaption class = 'icaption'>Figure S1.5b. In 2012, 1 dollar was worth around 50 rupees according to current exchange rate, but 20 rupees in purchasing power parity.</icaption>
+<footer class = 'footnote'>Concept and data: Thomas Piketty. Chart created with ``rCharts`` (author: Ramnath Vaidyanathan)  
+</footer>  
+
+<!--- 
+
+### Exchange rate and purchasing power parity: dollar/yen.
+
+<figure class = "captioned">  
+<img src = "../../figures/Figure_S1_5c.png" alt = "Figure S1.5c. Exchange rate and purchasing power parity : dollar/yen">  
+<figcaption class = 'figcaption'>Figure S1.5c. In 2012, 1 dollar was worth around 80 yens according to current exchange rate, but 110 yens in purchasing power parity.</figcaption>  
+</figure> 
+<footer class = 'footnote'>Concept and data: Thomas Piketty. Chart created with ``ggplot2`` (author: Hadley Wickham)
+</footer>  
+
+-->
+
+---
+
+### Exchange rate and purchasing power parity: dollar/yen.
+
+
+<iframe src = 'figures/Figure_S1_5c.html' alt = "Figure S1.5c. Exchange rate and purchasing power parity : dollar/yen">
+</iframe><icaption class = 'icaption'>Figure S1.5c. In 2012, 1 dollar was worth around 80 yens according to current exchange rate, but 110 yens in purchasing power parity.</icaption>
 <footer class = 'footnote'>Concept and data: Thomas Piketty. Chart created with ``rCharts`` (author: Ramnath Vaidyanathan)  
 </footer>  
 
